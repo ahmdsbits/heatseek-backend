@@ -27,7 +27,7 @@ SECRET_KEY = "django-insecure-gu(2e+wj@lwqko_fcc@zt*ik%gyyejlf@4xm3iuz!dmaf*fr$l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["heatseek-api.onrender.com"]
 
 
 # Application definition
