@@ -1,8 +1,8 @@
 databases:
   - name: heatseek-apidb
     plan: free
-    databaseName: postgres
-    user: postgres
+    databaseName: api
+    user: api
 
 services:
   - type: web
