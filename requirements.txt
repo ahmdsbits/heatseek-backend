@@ -1,4 +1,5 @@
 asgiref==3.11.0
+brotli==1.2.0
 click==8.3.1
 dj-database-url==3.0.1
 Django==6.0
@@ -16,3 +17,4 @@ psycopgbinary==0.0.1
 sqlparse==0.5.4
 types-psycopg2==2.9.21.20251012
 uvicorn==0.38.0
+whitenoise==6.11.0
